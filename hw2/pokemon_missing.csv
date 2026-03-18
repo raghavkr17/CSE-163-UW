@@ -1,0 +1,11 @@
+id,name,level,personality,type,weakness,atk,def,hp,stage
+149,Dragonair,13,relaxed,dragon,ice,,40,35,1
+149,Dragonair,55,brave,dragon,ice,64,,61,1
+149,Dragonair,20,jolly,dragon,ice,35,60,45,1
+149,Dragonair,31,shy,dragon,ice,55,41,45,1
+147,Dratini,10,docile,dragon,ice,52,43,41,0
+133,Eevee,25,naive,normal,fighting,52,48,55,0
+133,Eevee,40,calm,normal,fighting,50,,115,0
+133,Eevee,35,hasty,normal,fighting,52,44,50,
+149,Dragonair,53,modest,dragon,ice,65,41,45,1
+398,Staravia,28,brash,flying,electric,,43,55,1
